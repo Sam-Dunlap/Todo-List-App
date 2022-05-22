@@ -10,6 +10,8 @@ code {
 }
 
 .app {
+  box-shadow: 5px 5px 5px rgba(0,0,0, 0.75);
+  border-radius: 10%;
   background: #085ecf;
   margin: 100px;
   padding: 30px;
